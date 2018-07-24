@@ -1,0 +1,9 @@
+{
+  "commitish" : "37fca87d66b72ad8a38d6b24a2cc5198f013507d",
+  "iOS" : [
+    {
+      "name" : "ParticleSDK",
+      "hash" : "d40427f999ba21bdf8447d5499e208c0d7ee607afc260f8899497a11fe8f7d5b"
+    }
+  ]
+}

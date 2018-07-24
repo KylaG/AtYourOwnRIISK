@@ -1,0 +1,6 @@
+# ETCStudentKit
+
+github "AFNetworking/AFNetworking" "3.2.1"
+github "particle-iot/particle-sdk-ios" "0.7.0"
+github "danielgindi/Charts" == 3.1.1
+# github "spark/spark-sdk-ios" "master"
